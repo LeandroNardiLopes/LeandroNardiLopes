@@ -3,8 +3,7 @@ I am a technical professional with over 15 years of experience , currently trans
 My main differentiator is the combination of rigorous industrial automation logic with the agility of multiplatform development. I bring a solid background in international support, team coordination, and complex problem-solving.
 - 🚀 What I'm building right now:
 - 🎓 Degree in Software Development (FATEC): Focusing on software architecture and multiplatform solutions.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-           Python: Developing automations and exploring programming logic.
+-    Python: Developing automations and exploring programming logic.
 - ☁️ Salesforce Administrator: Specializing in CRM ecosystem management.
 - 🛠️ Background I bring to Code:
 Complex Problem Solving: Specialist in troubleshooting critical systems and high-precision equipment.
