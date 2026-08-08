@@ -33,3 +33,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.
 <br> <br>
      
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=LeandroNardiLopes&langs_count=4&theme=default_repocard)](https://github-stats-extended.vercel.app/api/top-langs?username=LeandroNardiLopes&langs_count=4&theme=default_repocard)
+
+<br><br>
+<br> <br>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=LeandroNardiLopes&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=LeandroNardiLopes&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&include_all_commits=true)
