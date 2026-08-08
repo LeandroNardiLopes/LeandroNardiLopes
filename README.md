@@ -16,3 +16,20 @@ LinkedIn: [linkedin.com/in/leandro-nardi-lopes-16a55516b]
 Email: leandronardilopes@gmail.com
 
 "Technology changes, but the logic of solving problems is what moves the world."
+
+# Leandro Nardi
+**'Graduando Desenvolvimento de Software'**
+---
+### Linguagens de Programacao
+
+<img
+align="left"
+alt="PHP"
+title="PHP"
+width="30px"
+style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+
+<br> <br>
+     
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=LeandroNardiLopes&langs_count=4&theme=default_repocard)](https://github-stats-extended.vercel.app/api/top-langs?username=LeandroNardiLopes&langs_count=4&theme=default_repocard)
